@@ -1,13 +1,12 @@
-# Oblig1data1700-24
- Oblig1Data1700
-Oblig 2
+Oblig 1
 =======
 OsloMet brukernavn: s375802
 
 GitHub brukernavn: HajraRz
 
-Github repo URL: https://github.com/data1700-v23/oblig-1-HajraRz.git
+Github repo URL: https://github.com/HajraRz/Oblig1data1700-24.git
 
 Fullt navn: Hajra Raza
 
 Kort beskrivelse av applikasjon (5-10 setninger):
+
